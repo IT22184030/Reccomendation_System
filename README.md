@@ -22,7 +22,7 @@
 
 This system highlights our expertise in AI-driven personalization and demonstrates the potential of machine learning to revolutionize how users discover content.Our system achieved highly accurate recommendations, combining insights from user behavior and book attributes. This approach highlights the effectiveness of hybrid recommendation systems in real-world applications.Also For future work, our system can be enhanced by expanding the dataset with additional user feedback to improve adaptability, incorporating deep learning models for advanced content analysis, and developing a real-time interface to elevate user interaction and experience.
 
-I also provided a file that includes the code for the recommendation system. This HTML file serves as a demonstration, allowing users to explore both the system's functionality and the underlying implementation of the algorithms used in the recommendation process.
+I also provided a file folder that includes the code for the recommendation system. This HTML file serves as a demonstration, allowing users to explore both the system's functionality and the underlying implementation of the algorithms used in the recommendation process.
 
 
 Finally, I included a demonstration video showcasing our Book Recommendation System in action, highlighting its features, functionalities, and the seamless user experience it provides.
