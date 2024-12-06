@@ -24,7 +24,6 @@ This system highlights our expertise in AI-driven personalization and demonstrat
 
 Finally, I included a demonstration video showcasing our Book Recommendation System in action, highlighting its features, functionalities, and the seamless user experience it provides.
 
-https://github.com/user-attachments/assets/9e1a6a56-8f7e-40e8-bcca-191391cb0aba
 
 
 
