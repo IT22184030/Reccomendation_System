@@ -12,7 +12,7 @@
 ## Technologies and Tools in Our System
 - Programming Language: Python
 - Libraries: Pandas, NumPy, Scikit-learn, Surprise Library
-- Visualization Tools: Matplotlib, Seaborn
+- Visualization Tools: Flask
 
 ## How Our System Works
 - Data Preprocessing: Cleaned and prepared book and user data for analysis.
